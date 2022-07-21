@@ -1,4 +1,5 @@
 ### Hi there 👋
+Kartik Kushwaha here. Well people also know me as Corrupter-Rot.
 
 <!--
 **Corrupter-rot/Corrupter-rot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
