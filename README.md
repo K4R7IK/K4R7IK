@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartik Kushwaha</h1>
+<h1 align="center">Hi, I'm Kartik Kushwaha</h1>
 <h3 align="center">A Linux u$er, $hell $cript writer, part-time Gamer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=corrupter-rot&label=Profile%20views&color=0e75b6&style=flat" alt="corrupter-rot" /> </p>
