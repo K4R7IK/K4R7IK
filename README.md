@@ -7,7 +7,7 @@
 
 ---
 
-<div style="display:flex; justify-content:space-around;">
+<div align="center" style="display:flex; justify-content:space-around;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
@@ -39,7 +39,7 @@
 
 ###
 
-<div style="display:flex; justify-content:center; gap:10px">
+<div align="center" style="display:flex; justify-content:center; gap:10px">
 <a href="https://www.linkedin.com/in/k4r7ik/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
         </a>
@@ -52,10 +52,10 @@
 </div>
 
 ###
-<div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=K4R7IK&theme=dark&show_icons=true&hide_border=true&count_private=true)" width="100%"/>
 </div>
-<div style="display: flex; justify-content: center; align-items: center">
+<div align="center" style="display: flex; justify-content: center; align-items: center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=K4R7IK&theme=dark&hide_border=true" height="100%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4R7IK&theme=dark&show_icons=true&hide_border=true&layout=compact" height="100%"/>
 </div>
